@@ -1,7 +1,8 @@
 <?php
 
 function blah() {
-  return "BLAH";
+  $blah = "BLAH";
+  return $blah;
 }
 
 
